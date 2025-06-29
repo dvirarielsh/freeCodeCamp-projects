@@ -32,3 +32,4 @@ probability = experiment(hat=hat,
                   num_balls_drawn=5,
                   num_experiments=2000)
 print(probability)
+# The output will vary due to the random nature of the experiment.
